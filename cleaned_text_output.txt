@@ -1,4 +1,3 @@
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/five-little-ducks.txt ---
 Five Little Ducks went out one day, over the hills and far away.
 Mother Duck said, “Quack, Quack, Quack, Quack,” but only four little ducks came back.
 Four little ducks went out one day, over the hills and far away
@@ -7,7 +6,6 @@ Mother Duck said, “Quack, Quack, Quack, Quack,” but only three little ducks 
 Sad mother duck went out one day, over the hills and far away
 Mother Duck said, “Quack, Quack, Quack, Quack,” and five little ducks came back.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/old-mother-hubbard.txt ---
 Old Mother Hubbard
 Went to the cupboard,
 To give the poor dog a bone:
@@ -75,14 +73,12 @@ Whenever he fed,
 And erected this monument
 When he was dead.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hey-diddle-diddle.txt ---
 Hey diddle diddle,
 The Cat and the fiddle,
 The Cow jumped over the moon,
 The little Dog laughed to see such sport,
 And the Dish ran away with the Spoon
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/i-love-little-pussy.txt ---
 I love little pussy,
 Her coat is so warm,
 And if I don’t hurt her,
@@ -96,7 +92,6 @@ and give her some food
 and Pussy will love me
 because I am good.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/skip-to-my-loo.txt ---
 Chorus
 Skip, skip, skip to my Lou,
 Skip, skip, skip to my Lou,
@@ -148,7 +143,6 @@ Off to Texas, two by two,
 Skip to my Lou, my darling.
 Chorus
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jack-a-nory.txt ---
 I’ll tell you a story
 About Jack-a-Nory,
 And now my story’s begun;
@@ -156,7 +150,6 @@ I’ll tell you another,
 About Jack and his brother,
 And now my story is done.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/baby-shark-dance.txt ---
 Baby shark, doo doo doo doo doo doo
 Baby shark, doo doo doo doo doo doo
 Baby shark, doo doo doo doo doo doo
@@ -205,7 +198,6 @@ It’s the end, doo doo doo doo doo doo
 It’s the end!
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/deck-the-halls.txt ---
 Deck the hall with boughs of holly,
 Fa, la, la, la, la, la, la, la, la!
 ‘Tis the season to be jolly,
@@ -231,7 +223,6 @@ Fa, la, la, la, la, la, la, la!
 Heedless of the wind and weather,
 Fa, la, la, la, la, la, la, la, la!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/what-child-is-this.txt ---
 What child is this, who, laid to rest,
 On Mary’s lap is sleeping,
 Whom angels greet with anthems sweet
@@ -257,7 +248,6 @@ The virgin sings her lullaby.
 Joy! joy! for Christ is born,
 The babe, the son of Mary!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/to-bed-to-bed.txt ---
 Come, let’s go to bed, says sleepy-head,
 Let’s stay awhile, says slow,
 Put on the pot, says greedy-gut,
@@ -269,7 +259,6 @@ Says Sleepy-head;
 Says Greedy Nan*;
 “We’ll sup before we go.”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/do-you-hear-what-i-hear.txt ---
 Do you hear what I hear?
 Said the night wind to the little lamb
 Do you see what I see?
@@ -304,7 +293,6 @@ The Child, the Child sleeping in the night
 He will bring us goodness and light
 He will bring us goodness and light
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hes-got-the-whole-world-in-his-hands.txt ---
 He’s got the whole world in his hands,
 He’s got the whole world in his hands,
 He’s got the whole world in his hands,
@@ -350,7 +338,6 @@ He’s got the whole world in his hands,
 He’s got the whole world in his hands,
 He’s got the whole world in his hands.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/head-shoulders-knees-and-toes.txt ---
 Head, shoulders, knees and toes,
 Knees and toes.
 Head, shoulders, knees and toes,
@@ -360,7 +347,6 @@ Head, shoulders, knees and toes,
 Knees and toes.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/solomon-grundy.txt ---
 Solomon Grundy,
 Born on a Monday,
 Christened on Tuesday,
@@ -372,7 +358,6 @@ Buried on Sunday.
 That was the end,
 Of Solomon Grundy.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/johny-johny-yes-papa.txt ---
 Johny, Johny,
 Yes papa?
 Eating sugar?
@@ -382,7 +367,6 @@ No papa.
 Open your mouth
 Ha ha ha!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/see-saw-margery-daw.txt ---
 See-saw, Margery Daw,
 Sold her bed and lay on the straw;
 Sold her bed and lay upon hay
@@ -390,7 +374,6 @@ And pisky came and carried her away.
 For wasn’t she a dirty slut
 To sell her bed and lie in the dirt?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jingle-bells.txt ---
 Dashing through the snow
 In a one-horse open sleigh
 O’er the fields we go
@@ -408,14 +391,12 @@ Jingle all the way;
 Oh! what fun it is to ride
 In a one-horse open sleigh.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hickory-dickory-dock.txt ---
 Hickory, dickory, dock,
 The mouse ran up the clock.
 The clock struck one,
 The mouse ran down,
 Hickory, dickory, dock
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/autumn-leaves-are-falling-down.txt ---
 Autumn leaves are falling down
 Falling down, falling down
 Autumn leaves are falling down.
@@ -433,7 +414,6 @@ Rake them up, rake them up.
 Take a rake and rake them up
 All around the town.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/a-sailor-went-to-sea-sea-sea.txt ---
 A sailor went to sea, sea, sea,
 To see what he could see, see, see.
 But all that he could see, see, see,
@@ -443,7 +423,6 @@ To see what he could see, see, see.
 But all that he could see, see, see,
 Was the bottom of the deep blue sea, sea, sea.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/mondays-child.txt ---
 Monday’s child is fair of face,
 Tuesday’s child is full of grace,
 Wednesday’s child is full of woe,
@@ -453,13 +432,11 @@ Saturday’s child works hard for his living,
 And the child that is born on the Sabbath day
 Is bonny and blithe, and good and gay;
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/pease-porridge-hot.txt ---
 Pease porridge hot, pease porridge cold,
 Pease porridge in the pot, nine days old;
 Some like it hot, some like it cold,
 Some like it in the pot, nine days old.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/bella-ciao.txt ---
 In the morning I got up
 oh bella ciao, bella ciao, bella ciao, ciao, ciao (
 Goodbye beautiful
@@ -487,14 +464,12 @@ oh bella ciao, bella ciao, bella ciao, ciao, ciao
 but the day will come when us all
 will work in freedom.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/way-up-high-in-the-apple-tree.txt ---
 Way up high in the apple tree,
 Two red apples smiled at me.
 I shook that tree as hard as I could,
 Dooowwwwwwwn came an apple,
 Mmmm, it was good!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/aiken-drum.txt ---
 There was a man lived in the moon, lived in the moon, lived in the moon,
 There was a man lived in the moon,
 And his name was Aiken Drum.
@@ -518,7 +493,6 @@ And his breeches made of haggis bags, of haggis bags, of haggis bags,
 And his breeches made of haggis bags,
 And his name was Aiken Drum.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/feliz-navidad.txt ---
 Feliz Navidad
 Feliz Navidad
 Feliz Navidad
@@ -530,7 +504,6 @@ I wanna wish you a Merry Christmas
 From the bottom of my heart.*
 *(or, alternate last verse) And a Happy New Year!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/lazy-mary.txt ---
 Lazy Mary will you get up,
 Will you get up, will you get up.
 Lazy Mary will you get up,
@@ -548,7 +521,6 @@ I will get up, I will get up.
 Yes dear mother I will get up,
 I will get up today.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/draw-a-pail-of-water.txt ---
 Draw a pail of water,
 For my lady’s daughter;
 My father’s a king, and my mother’s a queen,
@@ -584,7 +556,6 @@ One in a rush and
 Two in a rush
 And we all pop out!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/swing-low-sweet-chariot.txt ---
 Refrain
 Swing low sweet chariot
 Coming for to carry me home
@@ -611,7 +582,6 @@ When Jesus washed my sins away
 Coming for to carry me home
 Refrain
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/here-we-go-looby-loo.txt ---
 Here we go looby loo,
 Here we go looby light,
 Here we go looby loo,
@@ -657,7 +627,6 @@ Here we go looby light,
 Here we go looby loo,
 All on a Saturday night.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/going-on-a-bear-hunt.txt ---
 We’re goin’ on a bear hunt,
 We’re going to catch a big one,
 I’m not scared
@@ -707,7 +676,6 @@ Phew! That was close!
 I’m not afraid!
 by Michael Rosen
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/cobbler-cobbler-mend-my-shoe.txt ---
 Cobbler, cobbler, mend my shoe.
 Get it done by half past two.
 Half past two is much too late.
@@ -715,7 +683,6 @@ Get it done by half past eight.
 Stitch it up and stitch it down.
 And I’ll give you half a crown.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/a-tisket-a-tasket.txt ---
 A-tisket a-tasket
 A green and yellow basket
 I wrote a letter to my love
@@ -745,7 +712,6 @@ And took it to the market
 (Was it blue?) No, no, no, no
 Just a little yellow baske
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/turkey-in-the-straw.txt ---
 As I was a-goin’
 On down the road
 With a tired team
@@ -811,7 +777,6 @@ A high tuck a-haw
 And hit ’em up a tune called
 Turkey in the Straw
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-grand-old-duke-of-york.txt ---
 Oh, The grand old Duke of York,
 He had ten thousand men;
 He marched them up to the top of the hill,
@@ -821,7 +786,6 @@ And when they were down, they were down,
 And when they were only half-way up,
 They were neither up nor down
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/sur-le-pont-davignon.txt ---
 Chorus
 On the bridge of Avignon
 We’re all dancing, we’re all dancing
@@ -840,7 +804,6 @@ The musicians go like this
 And then like that.
 Chorus
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/danny-boy.txt ---
 Oh, Danny boy, the pipes, the pipes are calling
 From glen to glen, and down the mountain side.
 The summer’s gone, and all the roses falling,
@@ -858,7 +821,6 @@ And all my grave will warmer, sweeter be,
 For you will bend and tell me that you love me,
 And I shall sleep in peace until you come to me!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/did-you-ever-see-a-lassie.txt ---
 Did you ever see a lassie,
 A lassie, a lassie?
 Did you ever see a lassie,
@@ -876,7 +838,6 @@ Go this way and that way.
 Did you ever see a laddie,
 Go this way and that?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/bobby-shafto.txt ---
 Bobby Shafto’s gone to sea,
 Silver buckles at his knee;
 He’ll come back and marry me,
@@ -891,14 +852,12 @@ For to dangle on his arm;
 In his arm and on his knee,
 Bobby Shafto loves me.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/bubble-gum-bubble-gum-in-a-dish.txt ---
 Bubble gum, bubble gum, in a dish,
 How many pieces do you wish?
 Five.
 One, two, three, four, five.
 And you must go out.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/what-are-little-boys-made-of.txt ---
 What are little boys made of?
 What are little boys made of?
 Snips and snails
@@ -910,7 +869,6 @@ Sugar and spice
 And everything nice,
 That’s what little girls are made of.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/concentration-64.txt ---
 Concentration (3x clap)
 Sixty-four (3x clap)
 No repeats (3x clap)
@@ -919,7 +877,6 @@ I’ll go first (3x clap)
 You’ll go last (3x clap)
 Category is: (3x clap)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/miss-mary-mack.txt ---
 Miss Mary Mack, Mack, Mack
 All dressed in black, black, black
 With silver buttons, buttons, buttons
@@ -941,7 +898,6 @@ they stubbed their toe toe toe
 and that was the end end end
 of the elephant show show show.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jack-and-jill.txt ---
 Jack and Jill went up the hill
 To fetch a pail of water.
 Jack fell down and broke his crown,
@@ -955,7 +911,6 @@ To fetch the pail of water,
 And took it home to Mother dear,
 Who thanked her son and daughter.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-polly-flinders.txt ---
 Little Polly Flinders
 Sat among the cinders
 Warming her pretty little toes!
@@ -963,7 +918,6 @@ Her mother came and caught her,
 And whipped her little daughter,
 For spoiling her nice new clothes.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/down-down-baby.txt ---
 Down down baby, down by the roller coaster
 Sweet, sweet baby, I’ll never let you go,
 Shimmy, shimmy cocoa pops,
@@ -985,7 +939,6 @@ Ding dong, clap clap, stomp stomp, hot dog!
 Put it all backward and what do you get?
 Hot dog, stomp stomp, clap clap, ding dong!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/miss-polly-had-a-dolly.txt ---
 Miss Polly had a dolly who was sick, sick, sick.
 So she phoned for the doctor to come quick, quick, quick.
 The doctor came with his bag and his hat,
@@ -995,7 +948,6 @@ And said “Miss Polly put her straight to bed.
 He wrote a paper for a pill, pill, pill.
 I’ll be back in the morning with the bill, bill, bill.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/brahms-lullaby.txt ---
 Good evening, good night,
 With roses covered,
 With cloves adorned,
@@ -1010,7 +962,6 @@ the Christ-child’s tree.
 Sleep now blissfully and sweetly,
 see paradise in your dreams.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/cleanup-song.txt ---
 Baby Eva, Brother Jack. Let’s Clean Up.
 Here you go, Here you go, Put these away in there.
 Let’s Clean Up, Let’s Clean Up, All of our toys
@@ -1038,7 +989,6 @@ I would like some biscuits
 and an orange squash too.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/o-tannenbaum.txt ---
 O Tannenbaum, O Tannenbaum,
 How faithfully you blossom!
 Through summer’s heat and winter’s chill
@@ -1058,13 +1008,11 @@ To bring us light in winter’s gloom.
 O Tannenbaum, O Tannenbaum,
 You bear a joyful message
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/sally-goes-round-the-sun.txt ---
 Sally go round the sun,
 Sally go round the moon,
 Sally go round the chimney pots
 On a Sunday afternoon.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/baby-bumblebee.txt ---
 I’m bringing home a baby bumblebee,
 Won’t my mommy be so proud of me,
 I’m bringing home a baby bumblebee,
@@ -1098,7 +1046,6 @@ Won’t my mummy be so proud of me?
 I’m mopping up my baby bumble bee,
 Oh look! A butterfly!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/eeny-meeny-miny-moe.txt ---
 Eeny, meeny, miny, moe
 Catch a tiger by the toe
 If he hollers let him go,
@@ -1111,7 +1058,6 @@ Catch a mouse by the toe;
 If he squeals let him go,
 Eeena, meena, mina, mo.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-tommy-tucker.txt ---
 Little Tommy Tucker
 Sings for his supper.
 What shall we give him?
@@ -1121,19 +1067,16 @@ Without a knife?
 How will he be married
 Without a wife?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/three-wise-men-of-gotham.txt ---
 Three wise men of Gotham
 Went to sea in a bowl;
 And if the bowl had been stronger
 My song would have been longer.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/beans-beans-the-magical-fruit.txt ---
 Beans, beans, the magical fruit
 The more you eat, the more you toot,
 The more you toot, the better you feel
 So let’s have beans for every meal!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/down-by-the-bay.txt ---
 Down by the bay,
 Where the watermelons grow,
 Back to my home,
@@ -1207,19 +1150,16 @@ Did you ever have a time,
 When you couldn’t make a rhyme?
 Down by the bay!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hickety-pickety-my-black-hen.txt ---
 Hickety pickety, my black hen,
 She lay’s eggs for gentlemen;
 Sometimes nine, sometimes ten,
 Hickety pickety, my black hen.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/one-for-sorrow.txt ---
 One for sorrow,
 Two for mirth,
 Three for a wedding,
 And four for death
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/rubber-duckie-song.txt ---
 Well, here I am in my tubby again
 And my tubby’s all filled with water and nice fluffy suds
 And I’ve got my soap and washcloth to wash myself
@@ -1255,7 +1195,6 @@ And I’m lucky that you’re mine
 Rubber duckie, I’d like a whole pond of
 Rubber duckie, I’m awfully fond of you
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/twelve-days-of-christmas.txt ---
 On the first day of Christmas,
 my true love sent to me
 A partridge in a pear tree.
@@ -1359,7 +1298,6 @@ Three French hens,
 Two turtle doves
 And a partridge in a pear tree!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/teddy-bears-picnic.txt ---
 If you go down in the woods today
 You’re sure of a big surprise
 If you go down in the woods today
@@ -1400,7 +1338,6 @@ Will take them home to bed
 Because they’re tired little Teddy Bears
 Because they’re tired little Teddy Bears
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/go-tell-it-on-the-mountain.txt ---
 Go, tell it on the mountain
 Over the hills and everywhere
 Go, tell it on the mountain
@@ -1426,7 +1363,6 @@ Our humble Christ was born
 And God sent us salvation
 That blessed Christmas morn
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-worms-crawl-in-the-worms-crawl-out-the-hearse-song.txt ---
 … Don’t ever laugh as a Hearse goes by
 For you may be the next to die
 They wrap you up in a big white sheet
@@ -1463,7 +1399,6 @@ That you may be the next to die
 And your eyes fall out and your teeth decay
 And that is the end of a perfect… day
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/where-are-you-going-my-pretty-maid.txt ---
 “Where are you going to, my pretty maid?”
 “I’m going a-milking, sir,” she said.
 “May I go with you, my pretty maid?”
@@ -1477,7 +1412,6 @@ And that is the end of a perfect… day
 “Then I can’t marry you, my pretty maid.”
 “Nobody asked you sir,” she said.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ive-been-working-on-the-railroad.txt ---
 I’ve been workin’ on the railroad
 All the livelong day
 I’ve been workin’ on the railroad
@@ -1501,7 +1435,6 @@ Fe Fi Fiddly I Oh,
 Fe Fi Fiddly I Oh,”
 Strummin’ on the old banjo.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/guess-what-chicken-butt.txt ---
 Guess what?
 What?
 Chicken butt!
@@ -1518,7 +1451,6 @@ Guess who?
 Who?
 Chicken poo!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-ants-go-marching.txt ---
 The ants go marching one by one, hurrah, hurrah.
 The ants go marching one by one, hurrah, hurrah.
 The ants go marching one by one,
@@ -1536,7 +1468,6 @@ BOOM! BOOM! BOOM!
 …nine…check the time…
 …ten…say “The End!”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/six-little-mice.txt ---
 Six little mice sat down to spin,
 Pussy cat passed and she peeped in.
 What are you doing, my little men?
@@ -1546,7 +1477,6 @@ No, no, pussy cat, you’d bite off our heads!
 Oh, no, I’ll not, I’ll help you spin.
 That may be so, but you don’t come in.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/to-market-to-market.txt ---
 To market, to market to buy a fat pig;
 Home again, home again, jiggety-jig.
 To market, to market, to buy a fat hog;
@@ -1560,7 +1490,6 @@ To buy some meat to put in the pot;
 Three pence a quarter, a groat a side,
 If it hadn’t been killed it must have died.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/playmate-come-out-and-play-with-me.txt ---
 Hey, hey, oh playmate,
 Come out and play with me
 And bring your dollies three
@@ -1578,7 +1507,6 @@ Ain’t got no cellar door
 But we’ll be jolly friends
 Forever more, more, more.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/im-a-little-teapot.txt ---
 I’m a little teapot
 Short and stout
 Here is my handle
@@ -1600,13 +1528,11 @@ And my spout
 Just tip me over and pour me out!
 (lean over toward spout)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/roses-are-red.txt ---
 Roses are red
 Violets are blue
 Sugar is sweet
 And so are you.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/rub-a-dub-dub.txt ---
 (1)
 Rub-a-dub-dub,
 Three men in a tub,
@@ -1623,7 +1549,6 @@ The butcher, the baker,
 The candlestick-maker,
 All put out to sea.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hark-the-herald-angels-sing.txt ---
 Hark! The herald angels sing,
 “Glory to the newborn King,
 Peace on earth, and mercy mild,
@@ -1655,14 +1580,12 @@ Born to give them second birth.
 Hark! The herald angels sing,
 “Glory to the newborn King!”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-other-day-i-met-a-bear.txt ---
 Sometimes the last stanza is replaced with this
 And so I met
 That bear once more,
 Now he’s a rug
 On my bedroom floor.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/simple-simon.txt ---
 Simple Simon met a pieman,
 Going to the fair;
 Says Simple Simon to the pieman,
@@ -1680,7 +1603,6 @@ If plums grew on a thistle;
 He pricked his fingers very much,
 Which made poor Simon whistle
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-liza-jane.txt ---
 Where is my tambourine wait a minute I’ll get your tambourine
 Got my tambourine get your thing baby
 What’s wrong with you what is it you want
@@ -1732,7 +1654,6 @@ Little Liza Jean Little Liza Jean
 Oh Little Liza Liza Jane oh Little Liza Liza Jean
 Oh Little Liza Liza Jane oh Little Liza Liza Jean
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/cielito-lindo.txt ---
 Down from the Sierra Morena mountains,
 Pretty little darling, they come,
 A pair of black eyes,
@@ -1763,7 +1684,6 @@ Before your mother comes,
 Pretty little darling, give me a hug.
 (Chorus)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/de-colores.txt ---
 In colors, in colors
 The fields are dressed in the spring.
 In colors, in colors
@@ -1815,7 +1735,6 @@ The great loves of many colors
 And that is why I love
 The great loves of many colors.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/five-little-monkeys-swinging-in-a-tree.txt ---
 FIVE little monkeys swinging from a tree
 teasing Mr Crocodile
 ‘You can’t catch me!’
@@ -1853,7 +1772,6 @@ and snap! went the crocodile
 Then there were…
 NO little monkeys swinging from a tree…oh no!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-fruits-song.txt ---
 I love oranges.
 They’re orange and round I really love them.
 They’re Juicy and sweet and so tasty!
@@ -1894,7 +1812,6 @@ So many different colours, shapes and sizes.
 Cherries, Grapes, Melons, Pears, Pineapples and more!
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-farmer-in-the-dell.txt ---
 The farmer in the dell
 The farmer in the dell
 Heigh-ho,the derry-o
@@ -1936,7 +1853,6 @@ The cheese stands alone
 Heigh-ho, the derry-o
 The cheese stands alone
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/london-bridge-is-falling-down.txt ---
 London Bridge is falling down,
 Falling down, falling down,
 London Bridge is falling down,
@@ -1986,7 +1902,6 @@ Smoke all night, smoke all night,
 Give him a pipe to smoke all night,
 My fair Lady.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/one-little-finger.txt ---
 One little finger, one little finger, two little fingers.
 Tap tap tap.
 Point to the ceiling.
@@ -2024,7 +1939,6 @@ Point to the floor.
 now lets say goodbye. Byeeee
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oh-dear-what-can-the-matter-be.txt ---
 O dear, what can the matter be?
 Dear, dear, what can the matter be?
 O dear, what can the matter be?
@@ -2034,7 +1948,6 @@ And then for a kiss, oh! he vowed he would tease me,
 He promised he’d bring me a bunch of blue ribbons,
 To tie up my bonny brown hair.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/here-we-go-round-the-mulberry-bush.txt ---
 Here we go round the mulberry bush,
 The mulberry bush,
 The mulberry bush.
@@ -2066,19 +1979,16 @@ The mulberry bush.
 Here we go round the mulberry bush
 On a cold and frosty morning.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/how-much-wood-would-a-woodchuck-chuck.txt ---
 How much wood would a woodchuck chuck,
 If a woodchuck could chuck wood?
 He would chuck as much wood as a woodchuck could
 If a woodchuck could chuck wood.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/lucy-locket.txt ---
 Lucy Locket lost her pocket,
 Kitty Fisher found it;
 Not a penny was there in it,
 Only ribbon round it.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/boom-boom-aint-it-great-to-be-crazy.txt ---
 Boom, boom, ain’t it great to be crazy
 Boom, boom, ain’t it great to be crazy
 Giddy and foolish all day long
@@ -2113,7 +2023,6 @@ Giddy and foolish all day long
 Boom, boom, ain’t it great to be crazy?
 Boom, boom, ain’t it great to be crazy?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/o-christmas-tree.txt ---
 Version1
 O Christmas Tree, O Christmas Tree,
 Your branches green delight us!
@@ -2171,7 +2080,6 @@ That makes each toy to sparkle bright.
 O Christmas tree, O Christmas tree,
 Thy candles shine out brightly!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-lion-and-the-unicorn.txt ---
 The lion and the unicorn
 Were fighting for the crown
 The lion beat the unicorn
@@ -2185,7 +2093,6 @@ He beat him in again;
 He beat him three times over,
 His power to maintain.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/who-stole-the-cookie-from-the-cookie-jar.txt ---
 Who took the cookie from the cookie jar?
 Number one took the cookie from the cookie jar!
 Who me?
@@ -2211,7 +2118,6 @@ Number five took the cookie from the cookie jar!
 And I ate it all up!
 Ha, ha!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/i-had-a-little-turtle.txt ---
 I had a little turtle,
 His name was Tiny Tim.
 I put him in the bathtub to see if he could swim.
@@ -2225,7 +2131,6 @@ Bubble, bubble, bubble,
 Bubble, bubble, bubble
 Pop!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ladybird-ladybird.txt ---
 Lady-bird, Lady-bird, fly away home
 the field mouse is gone to her nest
 the daisies have shut up their sleepy red eyes
@@ -2245,31 +2150,26 @@ All except one,
 And her name is Ann,
 And she hid under the baking pan
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-tommy-tittlemouse.txt ---
 Little Tommy Tittlemouse
 Lived in a little house,
 He caught fishes
 In other men’s ditches.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/row-row-row-your-boat.txt ---
 Row, row, row your boat,
 Gently down the stream.
 Merrily, merrily, merrily, merrily,
 Life is but a dream.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/cuckoo-cherry-tree.txt ---
 Cuckoo cherry tree, catch a bird
 And give it to me.
 Let the tree be high or low,
 Let it hail, rain, or snow.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/pussy-cat-pussy-cat.txt ---
 Pussy cat, pussy cat, where have you been?
 I’ve been down to London to visit the Queen.
 Pussy cat, pussy cat, what did you there?
 I frightened a little mouse, under her chair.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/this-is-the-house-that-jack-built.txt ---
 This is the house that Jack built.
 This is the cheese that lay in the house that Jack built.
 This is the rat that ate the cheese
@@ -2329,7 +2229,6 @@ That tossed the dog that worried the cat
 That chased the rat that ate the cheese
 That lay in the house that Jack built.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/there-was-a-jolly-miller-once.txt ---
 There was a jolly miller once,
 Lived on the river Dee;
 He worked and sang from morn till night,
@@ -2339,7 +2238,6 @@ Forever used to be,
 I care for nobody, no not I,
 And nobody cares for me
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/diddle-dumpling.txt ---
 Diddle, diddle, dumpling, my son John,
 Went to bed with his trousers on;
 One shoe off, one shoe on,
@@ -2353,13 +2251,11 @@ Went to bed with his stockings on;
 One shoe off, and one shoe on,
 Deedle, deedle, dumpling, my son John.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hickety-pickety-bumblebee.txt ---
 Hickety pickety bumblebee,
 Can you sing your name for me?
 (One child) My name is “…”
 (All together) Your name is “…”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/curly-locks.txt ---
 Curly Locks, Curly Locks,
 Will you be mine?
 You shall not wash dishes,
@@ -2368,7 +2264,6 @@ But sit on a cushion
 And sew a fine seam,
 And sup upon strawberries, sugar, and cream.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/if-youre-happy-and-you-know-it.txt ---
 If you’re happy and you know it, clap your hands
 (clap clap)
 If you’re happy and you know it, clap your hands
@@ -2378,7 +2273,6 @@ If you’re happy and you know it, clap your hands.
 (clap clap)
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oranges-and-lemons.txt ---
 Two Sticks and Apple,
 Ring ye Bells at Whitechapple,
 Old Father Bald Pate,
@@ -2396,7 +2290,6 @@ Ring ye Bells at Stepney,
 When I am Old,
 Ring ye Bells at Pauls
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/this-old-man.txt ---
 This old man, he played one,
 He played knick-knack on my thumb;
 With a knick-knack paddywhack,
@@ -2448,7 +2341,6 @@ With a knick-knack paddywhack,
 Give the dog a bone,
 This old man came rolling home.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-lady-with-the-alligator-purse.txt ---
 Miss Lucy had a baby, his name was Tiny Tim
 She put him in the bathtub to see if he could swim
 He drank up all the water, he ate up all the soap
@@ -2462,7 +2354,6 @@ In came the lady with the alligator purse
 “Penicillin,” said the doctor, “Castor oil,” said the nurse
 “Pizza,” said the lady with alligator purse
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/i-want-a-hippopotamus-for-christmas.txt ---
 I want a hippopotamus for Christmas
 Only a hippopotamus will do
 I don’t want a doll, no dinky Tinkertoy
@@ -2503,7 +2394,6 @@ I only like hippopotamuses
 And hippopotamuses like me too
 Sang By Gayla Peevey
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/on-top-of-old-smokey.txt ---
 On top of old Smokey,
 All covered with snow,
 I lost my true lover
@@ -2537,7 +2427,6 @@ The stars in the skies,
 He’ll tell you more lies, dear,
 than the stars in the skies.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-jack-horner.txt ---
 Now he sings of Jacky Horner
 Sitting in the Chimney-corner
 Eating of a Christmas pie,
@@ -2545,7 +2434,6 @@ Putting in his thumb, Oh Fie
 Putting in, Oh Fie! his Thumb
 Pulling out, Oh Strange! a Plum.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/i-can-sing-a-rainbow.txt ---
 Red and yellow and pink and green
 Purple and orange and blue
 I can sing a rainbow
@@ -2563,7 +2451,6 @@ I can sing a rainbow
 Sing a rainbow
 Sing a rainbow too
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oats-peas-beans-and-barley-grow.txt ---
 (Chorus)
 Oats, peas, beans, and barley grow,
 Oats, peas, beans, and barley grow,
@@ -2590,12 +2477,10 @@ He stamps his foot and claps his hands,
 And turns around to view his lands.
 (Chorus)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/one-potato-two-potatoes.txt ---
 One potato, two potatoes, three potatoes – four
 Five potatoes, six potatoes, seven potatoes – more
 Eight potatoes, nine potatoes, ten potatoes – all
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/joy-to-the-world.txt ---
 Joy to the World; the Lord is come!
 Let earth receive her King!
 Let ev’ry heart prepare Him room,
@@ -2613,7 +2498,6 @@ And makes the nations prove
 The glories of His righteousness,
 And wonders of His love.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/old-king-cole.txt ---
 Old King Cole was a merry old soul
 And a merry old soul was he;
 He called for his pipe, and he called for his bowl
@@ -2631,7 +2515,6 @@ For ’twas my Lady’s Birth-day,
 Therefore we keep Holy-day
 And come to be merry
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ten-in-the-bed.txt ---
 There were ten in the bed
 And the little one said,
 “Roll over! Roll over!”
@@ -2675,7 +2558,6 @@ And the little one said,
 “Alone at last!”
 “Good Night!”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/winter-wonderland.txt ---
 Sleigh bells ring
 are you listening
 in the lane
@@ -2713,7 +2595,6 @@ walking in a winter wonderland
 Walking in a winter wonderland
 walking in a winter wonderland
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/down-by-the-station.txt ---
 Down by the station
 Early in the morning
 See the little pufferbellies
@@ -2723,7 +2604,6 @@ Turn the little handle
 Puff, puff, toot, toot
 Off we go!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/teddy-bear-teddy-bear-turn-around.txt ---
 Teddy bear, teddy bear, turn around,
 Teddy bear, teddy bear, touch the ground,
 Teddy bear, teddy bear, reach up high,
@@ -2735,7 +2615,6 @@ Teddy bear, teddy bear, rest your head,
 Teddy bear, teddy bear, turn out the lights,
 Teddy bear, teddy bear, say “good night”.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/two-little-dickie-birds.txt ---
 Two little dickie birds, Sitting on a wall;
 One named Peter,
 One named Paul.
@@ -2744,21 +2623,18 @@ Fly away Paul!
 Come Back Peter!
 Come Back Paul!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/humpty-dumpty.txt ---
 Humpty Dumpty sat on a wall,
 Humpty Dumpty had a great fall.
 All the king’s horses and all the king’s men
 Couldn’t put Humpty together again.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/pat-a-cake-pat-a-cake-bakers-man.txt ---
 Common version of the song:
 Pat-a-cake, pat-a-cake, baker’s man.
 Bake me a cake as fast as you can;
 Pat it and prick it and mark it with B,
 Put it in the oven for baby and me.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/cock-a-doodle-doo.txt ---
 Cock a doodle do!
 My dame has lost her shoe,
 My master’s lost his fiddlestick,
@@ -2776,7 +2652,6 @@ My dame will dance with you,
 While master fiddles his fiddlingstick,
 And knows not what to do
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-wheels-on-the-bus.txt ---
 The wheels on the bus go round and round
 Round and round, round and round
 The wheels on the bus go round and round
@@ -2806,7 +2681,6 @@ Round and round, round and round
 The wheels on the bus go round and round
 All through the town.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/on-top-of-spaghetti.txt ---
 Om top of spaghetti all covered with cheese
 I lost my poor meatball when somebody sneezed
 It rolled off the table, it rolled on the floor
@@ -2820,7 +2694,6 @@ It grew great big meatballs and tomato sauce.
 So if you eat spaghetti all covered with cheese,
 Hold on to your meatball and don’t ever sneeze.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-happy-wanderer.txt ---
 I love to go a-wandering,
 Along the mountain track,
 And as I go, I love to sing,
@@ -2848,7 +2721,6 @@ Until the day I die!
 Oh, may I always laugh and sing,
 Beneath God’s clear blue sky!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/dem-bones.txt ---
 Intro 1
 Ezekiel connected dem dry bones,
 Ezekiel connected dem dry bones,
@@ -2901,7 +2773,6 @@ Dem bones, dem bones, dem dry bones.
 Dem bones, dem bones, dem dry bones.
 Now hear the word of the Lord.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/i-had-a-little-nut-tree.txt ---
 I had a little nut tree,
 Nothing would it bear,
 But a silver nutmeg
@@ -2925,7 +2796,6 @@ And all was because of my little nut tree.
 I skipped over water, I danced over sea,
 And all the birds in the air couldn’t catch me.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/billy-boy.txt ---
 Oh, where have you been,
 Billy Boy, Billy Boy?
 Oh, where have you been,
@@ -2959,7 +2829,6 @@ Twenty-eight and eleven,
 She’s a young thing
 And cannot leave her mother.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oh-my-darling-clementine.txt ---
 Oh my darling, oh my darling. Oh my darling, Clementine,
 You were lost and gone forever, dreadful sorrow, Clementine.
 In a cavern, in a canyon, excavating for a mine.
@@ -2976,7 +2845,6 @@ Oh my darling, oh my darling. Oh my darling, Clementine,
 You were lost and gone forever, dreadful sorrow, Clementine.
 You were lost and gone forever, dreadful sorrow, Clementine.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/taffy-was-a-welshman.txt ---
 Taffy was a Welshman, Taffy was a thief;
 Taffy came to my house and stole a piece of beef;
 I went to Taffy’s house, Taffy wasn’t in;
@@ -2990,7 +2858,6 @@ Taffy came to my house, and stole a piece of meat;
 I went to Taffy’s house, Taffy was not there,
 I hung his coat and trousers to roast before a fire.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/found-a-peanut.txt ---
 Found a peanut, found a peanut,
 Found a peanut just now,
 Just now I found a peanut,
@@ -3056,7 +2923,6 @@ Found a peanut just now,
 Just now I found a peanut,
 Found a peanut just now.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/mary-mary-quite-contrary.txt ---
 Mary, Mary, quite contrary,
 How does your garden grow?
 With silver bells, and cockle shells,
@@ -3066,7 +2932,6 @@ How does your garden grow?
 With Silver Bells, And Cockle Shells,
 And so my garden grows.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/five-little-monkeys.txt ---
 Five little monkeys jumping on the bed,
 One fell down and bumped his head,
 Mama called the doctor and the doctor said,
@@ -3089,7 +2954,6 @@ Mama called the doctor and the doctor said,
 Put those monkeys back to bed!
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/do-your-ears-hang-low.txt ---
 Do your ears hang low?
 Do they wobble to and fro?
 Can you tie ’em in a knot?
@@ -3140,7 +3004,6 @@ Can you tie them in a bow?
 Can you swing them over your shoulder like a regimental soldier
 Do your ears hang low?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/red-river-valley.txt ---
 From this valley they say you are going,
 We will miss your bright eyes and sweet smile,
 For they say you are taking the sunshine
@@ -3175,7 +3038,6 @@ Near the hills where the daffodils grow,
 When you’re gone from the Red River valley,
 For I can’t live without you I know.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/i-see-the-moon-and-the-moon-sees-me.txt ---
 I see the moon, the moon sees me,
 God bless the moon and God bless me:
 There’s grace in the cottage and grace in the hall;
@@ -3199,7 +3061,6 @@ Fragrant as only a rose can be.
 Please let the Rose that comforts me
 Comfort the one I love.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/wee-willie-winkie.txt ---
 Wee Willie Winkie rins through the toon,
 Up stairs an’ doon stairs in his nicht-gown,
 Tirlin’ at the window, crying at the lock,
@@ -3241,7 +3102,6 @@ A small short little child, who can’t run on his own,
 Who always has a battle with sleep before he’ll close an eye
 But a kiss from his rosy lips gives strength anew to me.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/day-is-done-gone-the-sun.txt ---
 Day is done, gone the sun,
 From the lake, from the hills, from the sky;
 All is well, safely rest, God is nigh.
@@ -3258,7 +3118,6 @@ While the light fades from sight,
 And the stars gleaming rays softly send,
 To thy hands we our souls, Lord, commend.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/polly-wolly-doodle.txt ---
 Oh, I went down South
 For to see my Sal
 Sing Polly wolly doodle all the day
@@ -3311,7 +3170,6 @@ Fare thee well my fairy fay
 For I’m going to Lou’siana For to see my Susyanna
 Sing Polly wolly doodle all the day
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jingle-bells-batman-smells.txt ---
 Refrain
 Jingle bells, Batman smells
 Robin laid an egg
@@ -3331,7 +3189,6 @@ Robin laid an egg
 Batmobile lost a wheel
 And Joker got away
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/and-the-green-grass-grows-all-around.txt ---
 … Oh in the woods there was a tree
 The prettiest tree
 You ever did see
@@ -3383,7 +3240,6 @@ And the limb was on the tree
 And the tree was in the ground
 And the green grass grew all around, all around, and the green grass grew all around
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/frosty-the-snowman.txt ---
 Frosty the snowman
 Was a jolly happy soul
 With a corncob pipe
@@ -3429,7 +3285,6 @@ Thumpity, thump, thump
 Thumpity, thump, thump
 Over the hills of snow
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/she-sells-seashells.txt ---
 She sells seashells by the seashore,
 The shells she sells are seashells, I’m sure.
 So if she sells seashells on the seashore,
@@ -3445,7 +3300,6 @@ Nor she sells seashells,
 Who shall sell seashells?
 Shall seashells be sold?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/matthew-mark-luke-and-john.txt ---
 Matthew, Mark, Luke and John,
 Bless the bed that I lie on.
 Four corners to my bed,
@@ -3453,7 +3307,6 @@ Four angels round my head;
 One to watch and one to pray
 And two to bear my soul away
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/thirty-days-hath-september.txt ---
 Thirty days hath September,
 April, June and November;
 All the rest have thirty-one,
@@ -3472,7 +3325,6 @@ Except February, alone,
 Which has four and twenty-four,
 And every fourth year, one day more.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/mary-had-a-little-lamb.txt ---
 Mary had a little lamb,
 whose fleece was white as snow.
 And everywhere that Mary went,
@@ -3490,7 +3342,6 @@ the eager children cry.
 “Why, Mary loves the lamb, you know.”
 the teacher did reply
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/bye-baby-bunting.txt ---
 Bye, baby Bunting,
 Daddy’s gone a-hunting,
 Gone to get a rabbit skin
@@ -3502,7 +3353,6 @@ Sister’s gone a-silking,
 Brother’s gone to buy a skin
 To wrap the baby Bunting in
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/silent-night.txt ---
 Silent night, holy night,
 All is calm, all is bright
 Round yon virgin mother and Child.
@@ -3528,13 +3378,11 @@ Alleluia to our King;
 Christ the Savior is born,
 Christ the Savior is born!*
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/how-many-days-has-my-baby-to-play.txt ---
 How many days has my baby to play?
 Saturday, Sunday, Monday,
 Tuesday, Wednesday, Thursday, Friday,
 Saturday, Sunday, Monday.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/yankee-doodle.txt ---
 Yankee Doodle went to town
 A-riding on a pony,
 Stuck a feather in his cap
@@ -3555,7 +3403,6 @@ Giving orders to his men-
 I guess there were a million.
 Chorus
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/who-killed-cock-robi.txt ---
 Who killed Cock Robin?
 I, said the Sparrow,
 with my bow and arrow,
@@ -3613,7 +3460,6 @@ fell a-sighing and a-sobbing,
 when they heard the bell toll
 for poor Cock Robin.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/funiculi-funicula.txt ---
 Some think the world is made for fun and frolic,
 And so do I! And so do I!
 Some think it well to be all melancholic,
@@ -3639,7 +3485,6 @@ Harken, harken, hark the soft guitar!
 Funiculì, funiculà, funiculì, funiculà!
 Hark the soft guitar, funiculì, funiculà!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/make-new-friends-but-keep-the-old.txt ---
 Make new friends,
 But keep the old.
 One is silver,
@@ -3665,7 +3510,6 @@ Across the sea
 Friends forever
 We will always be.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/tweedledum-and-tweedledee.txt ---
 Tweedledum and Tweedledee
 Agreed to have a battle;
 For Tweedledum said Tweedledee
@@ -3675,7 +3519,6 @@ As black as a tar-barrel;
 Which frightened both the heroes so,
 They quite forgot their quarrel.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/one-two-three-four-five.txt ---
 One, two, three, four, five,
 Once I caught a fish alive,
 Six, seven, eight, nine, ten,
@@ -3691,7 +3534,6 @@ Six, seven, eight,
 Nine and ten,
 I let him go again
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/my-bonnie-lies-over-the-ocean.txt ---
 My Bonnie lies over the ocean
 My Bonnie lies over the sea
 My Bonnie lies over the ocean
@@ -3725,7 +3567,6 @@ Oh, bring back my Bonnie to me, to me
 Bring back, bring back
 Oh, bring back my Bonnie to me
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/three-blind-mice.txt ---
 Three blind mice. Three blind mice.
 See how they run. See how they run.
 They all ran after the farmer’s wife,
@@ -3733,7 +3574,6 @@ Who cut off their tails with a carving knife,
 Did you ever see such a sight in your life,
 As three blind mice?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hokey-cokey.txt ---
 You put your left arm in,
 Your left arm out:
 In, out, in, out.
@@ -3751,7 +3591,6 @@ The hokey pokey,
 The hokey pokey.
 That’s what it’s all about!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/cock-robin.txt ---
 Who killed Cock Robin?
 I, said the Sparrow,
 with my bow and arrow,
@@ -3809,13 +3648,11 @@ fell a-sighing and a-sobbing,
 when they heard the bell toll
 for poor Cock Robin.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/down-by-the-banks-of-the-hanky-panky.txt ---
 Down by the banks of the Hanky Panky,
 Where the bullfrogs jump from bank to banky,
 With a hip, hop, hippity, hop,
 Leap off a lily pad and go KERPLOP!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/how-many-miles-to-babylon.txt ---
 How many miles to Babylon?
 Three score miles and ten.
 Can I get there by candle-light?
@@ -3831,13 +3668,11 @@ If your horse be good and your spurs be bright.
 How mony men have ye?
 Mae nor ye daur come and see.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/are-you-sleeping-brother-john.txt ---
 Are you sleeping? Are you sleeping?
 Brother John, Brother John,
 Morning bells are ringing! Morning bells are ringing!
 Ding, dang, dong. Ding, dang, dong.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/how-much-is-that-doggie-in-the-window.txt ---
 How much is that doggie in the window?
 The one with the waggly tail
 How much is that doggie in the window?
@@ -3863,13 +3698,11 @@ The one with the waggly tail
 How much is that doggie in the window?
 I do hope that doggie’s for sale
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/eeper-weeper.txt ---
 Eeper Weeper, chimney sweeper,
 Had a wife but couldn’t keep her.
 Had another, didn’t love her,
 Up the chimney he did shove her.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/let-it-snow.txt ---
 Oh the weather outside is frightful
 But the fire is so delightful
 And since we’ve no place to go
@@ -3887,7 +3720,6 @@ And, my dear, we’re still goodbying
 But as long as you love me so
 Let It Snow! Let It Snow! Let It Snow!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-drummer-boy.txt ---
 Come, they told me pa-rum pum pum pum
 Our newborn King to see, pa-rum pum pum pum
 Our finest gifts we bring pa-rum pum pum pum
@@ -3910,7 +3742,6 @@ Rum pum pum pum, rum pum pum pum
 Then He smiled at me pa-rum pum pum pum
 Me and my drum
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/all-i-want-for-christmas-is-my-two-front-teeth.txt ---
 Everybody stops and stares at me
 These two teeth are gone as you can see
 I don’t know just who to blame for this catastrophe
@@ -3937,7 +3768,6 @@ See my two front teeth
 Gee, if I could only have my two front teeth
 Then I could wish you, “Merry Christmas”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-bo-peep.txt ---
 Little Bo peep has lost her sheep
 And doesn’t know where to find them.
 Leave them alone and they’ll come home,
@@ -3959,7 +3789,6 @@ And over the hillocks went rambling,
 And tried what she could,
 As a shepherdess should.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/sleeping-bunnies.txt ---
 See the bunnies sleeping till it’s nearly noon
 Shall we wake them with a merry tune?
 They’re so still, are they ill?
@@ -3989,7 +3818,6 @@ Hop, hop, hop, 3x hop
 Hop little bunnies, 3x hop
 hop, hop, hop…
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-alphabet-song.txt ---
 The USA version
 A-B-C-D-E-F-G
 H-I-J-K-LMNOP
@@ -4010,13 +3838,11 @@ Sugar on your bread
 Eat it all up
 before you are dead.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/if-all-the-world-was-apple-pie.txt ---
 If all the world were apple pie,
 And all the sea were ink,
 And all the trees were bread and cheese,
 What would we have to drink?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/one-two-buckle-my-shoe.txt ---
 One, two,
 Buckle my shoe;
 Three, four,
@@ -4038,7 +3864,6 @@ Maids a-waiting
 Nineteen, twenty,
 My plate’s empty
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/theres-a-hole-in-the-bottom-of-the-sea.txt ---
 There’s a hole in the bottom of the sea
 There’s a hole in the bottom of the sea
 There’s a hole, there’s a hole
@@ -4072,7 +3897,6 @@ There’s a smile on the flea, on the fly, on the wart, on the frog ,on the bump
 There’s a hole, there’s a hole
 There’s a hole in the bottom of the sea
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/shoo-fly-dont-bother-me.txt ---
 Shoo fly, don’t bother me,
 Shoo fly, don’t bother me,
 Shoo fly, don’t bother me,
@@ -4086,7 +3910,6 @@ Shoo fly, don’t bother me,
 Shoo fly, don’t bother me,
 For I belong to somebody.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-muffin-man.txt ---
 Do [or “Oh, do”] you know the muffin man,
 The muffin man, the muffin man,
 Do you know the muffin man,
@@ -4105,7 +3928,6 @@ The muffin man, the muffin man,
 Yes, I know the muffin man,
 Who lives in Drury Lane.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/yellow-rose-of-texas.txt ---
 There’s a yellow rose in Texas that I am gonna see
 Nobody else could miss her, not half as much as me
 She cried so when I left her, it like to broke my heart
@@ -4131,20 +3953,17 @@ Her eyes are bright as diamonds, they sparkle like the dew
 You may talk about your Clementine and sing of Rosa Lee
 But the Yellow Rose of Texas is the only girl for me
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hark-hark-the-dogs-do-bark.txt ---
 Hark, hark, the dogs do bark,
 The beggars are coming to town
 Some in rags, and some in jags,
 And some in velvet gowns.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ip-dip.txt ---
 Ip dip, sky blue.
 Who’s it? Not you.
 Not because you’re dirty,
 Not because you’re clean,
 My mother says you’re the fairy queen.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/itsy-bitsy-spider.txt ---
 “The itsy bitsy spider crawled up the water spout.
 Down came the rain, and washed the spider out.
 Out came the sun, and dried up all the rain,
@@ -4156,7 +3975,6 @@ Up came the sun, and dried up all the rain
 And Incy Wincy spider went climbing up again.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/a-was-an-apple-pie.txt ---
 A was an apple pie
 B bit it,
 C cut it,
@@ -4183,7 +4001,6 @@ W wanted it,
 X, Y, Z and ampersand
 All wished for a piece in hand.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/what-did-delaware.txt ---
 Oh, what did Delaware, boys? Oh, what did Delaware?
 Oh, what did Delaware, boys? Oh, what did Delaware?
 Oh, what did Delaware, boys? Oh, what did Delaware?
@@ -4239,7 +4056,6 @@ It made poor Flori-die, you see,
 She died in Missouri, boys,
 She died in Missouri!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/goosey-goosey-gander.txt ---
 Goosey goosey gander,
 Whither shall I wander?
 Upstairs and downstairs
@@ -4261,7 +4077,6 @@ He nearly broke his back.
 And all the little ducks went,
 ‘Quack, quack, quack
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/stella-ella-ola.txt ---
 Stella Ella Ola,
 Clap, clap, clap
 Singing es, chico, chico
@@ -4271,13 +4086,11 @@ Baloney, baloney
 Cheese and macaroni
 Fire 1, 2, 3, 4, 5!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-north-wind-doth-blow.txt ---
 The North wind doth blow and we shall have snow,
 And what will poor robin do then, poor thing?
 He’ll sit in a barn and keep himself warm
 and hide his head under his wing, poor thing.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/lemonade-crunchy-ice.txt ---
 Lemonade (Up Down Clap)
 (Triple Clap)
 Crunchy ice (Up Down Clap)
@@ -4295,7 +4108,6 @@ Touch the ground (Touch the ground)
 Push your brother out of town!
 And stomp! (Jump)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/once-i-saw-a-little-bird.txt ---
 Once I saw a little bird
 Come hop, hop, hop;
 So I cried, “Little bird,
@@ -4305,7 +4117,6 @@ To say, “How do you do?”
 But he shook his little tail,
 And far away he flew.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/dance-to-your-daddy.txt ---
 Come here, my little Jacky
 Now I’ve smoked my backey
 Let’s have a bit crackey
@@ -4336,7 +4147,6 @@ And weel may the keel row
 That brings the bairns their bread.
 Chorus
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-bunny-foo-foo.txt ---
 Little Bunny Foo Foo
 Hopping through the forest,
 Scooping up the field mice
@@ -4384,7 +4194,6 @@ And then she turned Little Bunny Foo Foo into a…GOOOOOON!
 And the moral of the story is:
 “HARE TODAY, GOON TOMORROW”.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ding-dong-bell.txt ---
 Ding dong bell,
 Pussy’s at the well.
 Who took her there?
@@ -4411,7 +4220,6 @@ the cat is in the well,
 let us ring now for her Knell,
 ding dong ding dong Bell
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/great-green-gobs-of-greasy-grimy-gopher-guts.txt ---
 Great green gobs of greasy grimy gopher guts
 Mutilated monkey meat
 Hairy pickled piggy feet
@@ -4433,7 +4241,6 @@ Percollated pelican poop
 Tortoise turd balls with the little flies inside
 And me without a spoon.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/over-the-river-and-through-the-woods.txt ---
 Over the river and through the woods,
 To grandfather’s* house we go;
 The horse knows the way to carry the sleigh,
@@ -4518,7 +4325,6 @@ Hurrah for the fun!
 Is the pudding done?
 Hurrah for the pumpkin pie!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/old-macdonald-had-a-farm.txt ---
 Old MacDonald had a farm, EE-I-EE-I-O,
 And on that farm he had a [animal name], EE-I-EE-I-O,
 With a [animal noise twice] here and a [animal noise twice] there
@@ -4542,7 +4348,6 @@ With a bow-wow here, and a bow-wow there,
 Here a bow, there a wow, everywhere a bow-wow.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/john-jacob-jingleheimer-schmidt.txt ---
 John Jacob Jingleheimer Schmidt
 His name is my name too.
 Whenever we go out
@@ -4550,7 +4355,6 @@ The people always shout,
 “There goes John Jacob Jingleheimer Schmidt.”
 Da da da da da da da.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/kookaburra-song.txt ---
 Kookaburra* sits in the old gum tree**,
 Merry, merry king of the bush is he,
 Laugh Kookaburra, laugh Kookaburra
@@ -4560,13 +4364,11 @@ Eating all the gumdrops he can see,
 Stop Kookaburra, stop Kookaburra,
 Leave some there for me.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/here-are-the-ladys-knives-and-forks.txt ---
 Here are the lady’s knives and forks,
 Here is the lady’s table,
 Here is the lady’s looking-glass,
 And here is the baby’s cradle.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/old-joe-clark.txt ---
 Fare thee well, old Joe Clark. Good-bye, Mitzi Brown.
 Fare thee well, old Joe Clark. I’m gonna leave this town.
 Fare thee well, old Joe Clark. I’m gonna leave this town.
@@ -4586,7 +4388,6 @@ Fare thee well, old Joe Clark. Good-bye, Mitzi Brown.
 Fare thee well, old Joe Clark. I’m gonna leave this town.
 Fare thee well, old Joe Clark. I’m gonna leave this town.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-poll-parrot.txt ---
 Little Poll Parrot
 Sat in his garret
 Eating toast and tea;
@@ -4594,19 +4395,16 @@ A little brown mouse
 Jumped into the house,
 And stole it all away.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/peter-piper.txt ---
 Peter Piper picked a peck of pickled peppers,
 A peck of pickled peppers Peter Piper picked;
 If Peter Piper picked a peck of pickled peppers,
 Where’s the peck of pickled peppers Peter Piper picked?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/round-and-round-the-garden.txt ---
 Round and round the garden
 Like a teddy bear.
 One step, two step,
 Tickle you under there.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/kumbaya.txt ---
 Kumbaya, my Lord, kumbaya
 Kumbaya, my Lord, kumbaya
 Kumbaya, my Lord, kumbaya
@@ -4624,7 +4422,6 @@ Kumbaya, my Lord, kumbaya
 Kumbaya, my Lord, kumbaya
 Oh, Lord, kumbaya (oh, Lord, kumbaya)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/la-cucaracha.txt ---
 (Chorus)
 The cockroach, the cockroach,
 Can’t walk anymore
@@ -4652,7 +4449,6 @@ The cockroach stung her
 But she kept on swimming.
 (Chorus)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/alouette.txt ---
 Refrain
 Lark, nice lark,
 Lark, I will pluck you.
@@ -4777,7 +4573,6 @@ Lark!
 O-o-o-oh
 Refrain
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-queen-of-hearts.txt ---
 The Queen of Hearts,
 She made some tarts,
 All on a summer’s day;
@@ -4791,7 +4586,6 @@ The Knave of hearts
 Brought back the tarts,
 And vowed he’d steal no more.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/senor-don-gato.txt ---
 O Senor Don Gato was a cat.
 On a high red roof Don Gato sat.
 He was there to read a letter,
@@ -4835,7 +4629,6 @@ He became reanimated,
 Meow, meow, meow!
 He came back to life, Don Gato!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/wynken-blynken-and-nod.txt ---
 Wynken, Blynken, and Nod one night
 Sailed off in a wooden shoe —
 Sailed on a river of crystal light,
@@ -4877,7 +4670,6 @@ As you rock in the misty sea,
 Where the old shoe rocked the fishermen three:
 Wynken, Blynken, and Nod.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/lavenders-blue.txt ---
 Lavender’s blue, dilly dilly, lavender’s green,
 When I am king, dilly dilly, you shall be queen:
 Who told you so, dilly dilly, who told you so?
@@ -4897,19 +4689,16 @@ Some to the plough, dilly, dilly, some to the cart;
 Some to make hay dilly, dilly, some the thresh corn;
 Whilst you and I, dilly, dilly, keep ourselves warm.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/christmas-is-coming.txt ---
 Christmas is coming, the goose is getting fat
 Please to put a penny in the old man’s hat;
 If you haven’t got a penny, a ha’penny will do,
 If you haven’t got a ha’penny then God bless you!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/daffy-down-dilly.txt ---
 Daffy-down-dilly
 Has come to town
 With a yellow petticoat
 And a pretty green gown.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/man-in-the-moon-came-down-too-soon.txt ---
 The man in the moon,
 Came tumbling down,
 And asked his way to Norwich;
@@ -4917,7 +4706,6 @@ He went by the south,
 And burned his mouth
 While supping cold plum porridge.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/las-mananitas.txt ---
 Wake up, my love, wake up.
 Look at what has dawned,
 Already the little birds are singing,
@@ -4935,7 +4723,6 @@ The day has given us light.
 Get up in the morning,
 Look that it has already dawned.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/skidamarink.txt ---
 Skidamarink a-dink a-dink
 Skidamarink a-doo
 I love you
@@ -4960,7 +4747,6 @@ And in the afternoon
 I love you in the evening
 And underneath the moon
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/apples-and-bananas.txt ---
 I like to eat, eat, eat
 Apples and bananas
 I like to eat, eat, eat
@@ -4986,7 +4772,6 @@ Uuples and bununus
 I like to ute, ute, ute
 Uuples and bununus
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/alice-the-camel.txt ---
 Alice the camel has five humps.
 Alice the camel has five humps.
 Alice the camel has five humps.
@@ -5017,7 +4802,6 @@ Alice the camel has no humps.
 Alice the camel has no humps.
 ‘Cause Alice is a horse, of course!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/frog-went-a-courtin.txt ---
 Froggy went a courtin’ and he did ride, uh-huh
 Froggy went a courtin’ and he did ride, uh-huh
 Froggy went a courtin’ and he did ride
@@ -5055,7 +4839,6 @@ Little bit of biscuit on the shelf, uh-huh
 Little bit of biscuit on the shelf
 If you want anymore you can sing it yourself, uh-huh, uh-huh, uh-huh.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/kalinka.txt ---
 (Chorus)
 Little red berry,
 Little red berry of mine!
@@ -5072,7 +4855,6 @@ Oh, lyuli, lyuli, oh, lyuli, lyuli,
 Fall in love with me!
 (Chorus)
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/gingerbread-man.txt ---
 Run, run, run as fast as you can.
 You’ll never catch me, I’m the gingerbread man.
 I ran from the baker and his wife too.
@@ -5110,13 +4892,11 @@ You’ll never catch me I’m the gingerbread man.
 He trusted the fox to help his plan
 And that was the end of the gingerbread man
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/rock-a-bye-baby.txt ---
 Rock-a-bye baby, on the treetops,
 When the wind blows, the cradle will rock,
 When the bough breaks, the cradle will fall,
 And down will come baby, cradle and all.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/where-is-thumbkin.txt ---
 Where is thumbkin?
 Where is thumbkin?
 Here I am.
@@ -5153,7 +4933,6 @@ Here we are. How are you today sir?
 Very well we thank you.
 Run away. Run away.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/there-was-an-old-lady-who-swallowed-a-fly.txt ---
 There was an old lady who swallowed a fly
 I don’t know why she swallowed a fly – Perhaps she’ll die!
 There was an old lady who swallowed a spider
@@ -5203,7 +4982,6 @@ I don’t know why she swallowed a fly – Perhaps she’s dead
 There was an old lady who swallowed a horse;
 …She’s dead, of course!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/five-little-snowmen.txt ---
 Five little snowmen standing in a line
 One, Two, Three, Four, Five
 So fine
@@ -5235,13 +5013,11 @@ Melt in the sunshine with a sigh
 We’ll see you next year
 Bye Bye!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oh-where-oh-where-has-my-little-dog-gone.txt ---
 Oh where, oh where has my little dog gone?
 Oh where, oh where can he be?
 With his ears cut short and his tail cut long,
 Oh where, oh where can he be?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/noche-de-paz.txt ---
 Noche de paz, noche de amor,
 Todo duerme en derredor.
 Entre los astros que esparcen su luz
@@ -5267,7 +5043,6 @@ Los pastores, la madre también.
 Y la estrella de paz
 Y la estrella de paz.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-robin-redbreast.txt ---
 Little Robin Redbreast sat upon a tree,
 Up went pussycat and down went he,
 Down came pussycat, away Robin ran,
@@ -5277,7 +5052,6 @@ Pussycat jumped after him, and almost had a fall.
 Little Robin chirped and sang and what did pussy say?
 Pussycat said “Meow”, and Robin flew away.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/girls-and-boys-come-out-to-play.txt ---
 Boys and girls come out to play,
 The moon doth shine as bright as day,
 Leave your supper,
@@ -5290,7 +5064,6 @@ A halfpenny loaf will serve us all.
 You find milk, and I’ll find flour,
 And we’ll have pudding within the hour.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/as-i-was-going-to-st-ives.txt ---
 As I was going to St Ives
 I met a man with seven wives
 Every wife had seven sacks
@@ -5299,7 +5072,6 @@ Every cat had seven kits
 Kits, cats, sacks, wives
 How many were going to St Ives?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/alle-meine-entchen.txt ---
 All my ducklings
 Swimming on the lake,
 Swimming on the lake,
@@ -5321,13 +5093,11 @@ Waddle across the ground,
 Search in the pond,
 Become round like a ball.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/rain-rain-go-away.txt ---
 Rain, rain, go away
 Come again another day
 Rain, rain, go away
 Little Arthur wants to play.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/betty-botter.txt ---
 Betty Botter bought a bit of butter;
 “But,” she said, “this butter’s bitter!
 If I put it in my batter
@@ -5345,7 +5115,6 @@ but the bit of butter was bitter
 so Betty Botter bought a bit of better butter
 to make the bit of bitter butter better.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/amazing-grace.txt ---
 Amazing grace, how sweet the sound
 That saved a wretch like me
 I once was lost, but now I’m found
@@ -5371,7 +5140,6 @@ Bright shining as the sun,
 We’ve no less days to sing God’s praise
 Than when we first begun.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-miss-muffet.txt ---
 Little Miss Muffet
 Sat on a tuffet,
 Eating her curds and whey;
@@ -5385,7 +5153,6 @@ Along came a Spider,
 While she was Drinking her Cider,
 And she ran away and her shoes fell off!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/shell-be-coming-round-the-mountain.txt ---
 She’ll be coming ’round the mountain when she comes, when she comes
 She’ll be coming ’round the mountain when she comes
 She’ll be coming ’round the mountain,
@@ -5412,7 +5179,6 @@ She’s got a lovely bottom.
 She’s got a lovely bottom.
 She’s got a lovely bottom set of teeth.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/pop-goes-the-weasel.txt ---
 Half a pound of tuppenny rice,
 Half a pound of treacle.
 That’s the way the money goes,
@@ -5430,7 +5196,6 @@ Half a pound of treacle.
 Mix it up and make it nice,
 Pop! goes the weasel.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/trot-trot-to-boston.txt ---
 Trot trot to Boston,
 Trot trot to Lynn,
 Watch out little baby,
@@ -5445,7 +5210,6 @@ Trot, trot to Town,
 Watch out baby
 You don’t fall down!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oh-susanna.txt ---
 I come from Alabama
 With my banjo on my knee,
 I’m going to Louisiana,
@@ -5483,7 +5247,6 @@ Oh don’t you cry for me,
 For I come from Alabama,
 With my banjo on my knee.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/for-want-of-a-nail.txt ---
 For want of a nail the shoe was lost.
 For want of a shoe the horse was lost.
 For want of a horse the rider was lost.
@@ -5492,7 +5255,6 @@ For want of a message the battle was lost.
 For want of a battle the kingdom was lost.
 And all for the want of a horseshoe nail.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/old-mother-leary.txt ---
 Late one night
 When we were all in bed
 Old Mother Leary
@@ -5538,7 +5300,6 @@ she winked her eye and said
 it’ll be a hot time, in the old town, tonight!
 FIRE FIRE FIRE!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/tinker-tailor.txt ---
 Tinker, Tailor,
 Soldier, Sailor,
 Rich Man, Poor Man,
@@ -5548,7 +5309,6 @@ Beggar Man, Thief,
 Doctor, Lawyer, (or “Merchant”)
 Indian Chief.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/finger-family.txt ---
 Daddy finger, daddy finger
 where are you?
 Here I am
@@ -5573,13 +5333,11 @@ How do you do?
 Below you can watch the Finger Family Song in a suitable video for children.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/star-light-star-bright.txt ---
 Star light, star bright,
 The first star I see tonight;
 I wish I may, I wish I might,
 Have the wish I wish tonight.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-cat-came-back.txt ---
 Old Mister Johnson had troubles of his own
 He had a yellow cat which wouldn’t leave its home;
 He tried and he tried to give the cat away,
@@ -5653,7 +5411,6 @@ The cat came back, we thought he was a goner
 But the cat came back; it just couldn’t stay away.
 Away, away, yea, yea, yea.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/o-holy-night.txt ---
 O holy night! The stars are brightly shining,
 It is the night of our dear Saviour’s birth.
 Long lay the world in sin and error pining,
@@ -5682,7 +5439,6 @@ Christ is the Lord! O praise His Name forever,
 His power and glory evermore proclaim.
 His power and glory evermore proclaim.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ah-vous-dirai-je-maman.txt ---
 Oh! Shall I tell you, Mama,
 What is causing my torment?
 Daddy wants me to reason
@@ -5690,7 +5446,6 @@ Like a big, big person,
 But I say that candies,
 Are worth more than the reason
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/there-was-a-little-girl.txt ---
 There was a little girl
 Who had a little curl
 Right in the middle of her forehead.
@@ -5699,7 +5454,6 @@ She was very very good
 But when she was bad
 She was horrid.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-fifth-of-november.txt ---
 Remember, remember the Fifth of November,
 The Gunpowder Treason and Plot,
 I know of no reason
@@ -5720,7 +5474,6 @@ Gunpowder, treason and plot;
 I see no reason why gunpowder treason
 Should ever be forgot.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/sing-a-song-of-sixpence.txt ---
 Sing a song of sixpence,
 A pocket full of rye.
 Four and twenty blackbirds,
@@ -5748,13 +5501,11 @@ that little Jenny wren;
 Flew down into the garden,
 and put it back again.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/there-was-a-crooked-man.txt ---
 There was a crooked man, and he walked a crooked mile.
 He found a crooked sixpence upon a crooked stile.
 He bought a crooked cat, which caught a crooked mouse,
 And they all lived together in a little crooked house.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/fuzzy-wuzzy-was-a-bear.txt ---
 Fuzzy Wuzzy was a bear
 Fuzzy Wuzzy had no hair
 Fuzzy Wuzzy wasn’t fuzzy
@@ -5772,13 +5523,11 @@ Fuzzy Wuzzy had no hair
 Fuzzy Wuzzy wasn’t fuzzy
 No, by god, he wasn’t, was he?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/frere-jacques.txt ---
 Are you sleeping? Are you sleeping?
 Brother John, Brother John,
 Morning bells are ringing! Morning bells are ringing!
 Ding, dang, dong. Ding, dang, dong.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/lift-every-voice-and-sing.txt ---
 Lift ev’ry voice and sing,
 ‘Til earth and heaven ring,
 Ring with the harmonies of Liberty;
@@ -5813,7 +5562,6 @@ May we forever stand,
 True to our God,
 True to our native land.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/if-all-the-seas-were-one-sea.txt ---
 If all the seas were one sea*,
 What a great sea that would be!
 And if all the trees were one tree,
@@ -5827,7 +5575,6 @@ And cut down the great tree,
 And let it fall into the great sea,
 What a splish splash that would be!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/zoom-zoom-were-going-to-the-moon.txt ---
 Zoom, Zoom, Zoom
 We’re going to the moon.
 Zoom, Zoom, Zoom
@@ -5839,7 +5586,6 @@ We’re going to the moon.
 5, 4, 3, 2, 1,
 Blast off!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ten-little-indians.txt ---
 Ten little Injuns standin’ in a line,
 One toddled home and then there were nine;
 Nine little Injuns swingin’ on a gate,
@@ -5869,7 +5615,6 @@ Seven little, six little, five little Indians
 Four little, three little, two little Indians
 One little Indian boy.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/doctor-foster.txt ---
 Doctor Foster went to Gloucester,
 In a shower of rain;
 He stepped in a puddle,
@@ -5880,7 +5625,6 @@ To preach the work of God.
 When he came there, he sat in his chair,
 And gave all the people a nod.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/see-you-later-alligator.txt ---
 See You Later Alligator
 Toodle-oo, Kangaroo
 Bye-bye Butterfly
@@ -5890,7 +5634,6 @@ Gotta go
 See you later, Alligator, that’s all for now
 Gotta go
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hurry-hurry-drive-the-fire-truck.txt ---
 Hurry, hurry, drive the fire truck
 Hurry, hurry, drive the fire truck
 Hurry, hurry, drive the fire truck
@@ -5912,7 +5655,6 @@ Slowly, slowly, back to the station
 Slowly, slowly, back to the station
 Ding, ding, ding, ding, ding!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jenny-jenkins.txt ---
 Will you wear white, oh my dear, oh my dear,
 Will you wear white, Jenny Jenkins?
 No I won’t wear white, the color’s too bright.
@@ -5982,7 +5724,6 @@ Roll, Jenny Jenkins, roll.
 Roll, Jenny Jenkins, roll.
 Roll, Jenny Jenkins, roll.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/if-wishes-were-horses.txt ---
 If wishes were horses
 Beggars would ride:
 If turnips were watches
@@ -5990,7 +5731,6 @@ I would wear one by my side.
 And if if’s and an’s were pots and pans,
 The tinker would never work!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jack-sprat.txt ---
 Jack Sprat could eat no fat.
 His wife could eat no lean.
 And so between them both, you see,
@@ -6000,7 +5740,6 @@ Joan ate all the fat.
 The bone they picked it clean,
 Then gave it to the cat
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/tom-tom-the-pipers-son.txt ---
 Tom, Tom, the piper’s son,
 Stole a pig, and away did run;
 The pig was eat
@@ -6034,7 +5773,6 @@ Heavy laden with pots, pans, dishes, and glass;
 He took out his pipe and he played them a tune,
 And the poor donkey’s load was lightened full soon.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/baa-baa-black-sheep.txt ---
 Baa, baa, black sheep,
 Have you any wool?
 Yes sir, yes sir,
@@ -6044,7 +5782,6 @@ One for the dame,
 And one for the little boy
 Who lives down the lane
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/miss-susie-had-a-steamboat.txt ---
 Miss Susie had a steamboat,
 The steamboat had a bell,
 Miss Susie went to heaven,
@@ -6090,7 +5827,6 @@ Mary went to Heaven
 And the steamboat went
 Toot Toot
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/polly-put-the-kettle-on.txt ---
 Polly put the kettle on,
 Polly put the kettle on,
 Polly put the kettle on,
@@ -6100,13 +5836,11 @@ Sukey take it off again,
 Sukey take it off again,
 They’ve all gone away.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/clap-hands.txt ---
 Clap hands, clap hands,
 Till father comes home,
 For fathers got money,
 But mothers got none.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/the-sharing-song.txt ---
 Baby Eva loves to play,
 loves to play, loves to play
 Baby Eva loves to play,
@@ -6142,14 +5876,12 @@ Sharing my toys is so much fun,
 All day long.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/this-little-piggy.txt ---
 This little piggy went to the market,
 This little piggy stayed home,
 This little piggy had roast beef,
 This little piggy had none,
 And this little piggy cried wee wee wee all the way home.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ride-a-cock-horse-to-banbury-cross.txt ---
 Ride a cock-horse to Banbury Cross,
 To see a fine lady upon a white horse;
 Rings on her fingers and bells on her toes,
@@ -6161,13 +5893,11 @@ A penny white loaf,
 A penny white cake,
 And a two-penny apple-pie
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/if-all-the-world-were-paper.txt ---
 If all the world were paper,
 And all the sea were ink,
 If all the trees were bread and cheese,
 What would we have to drink?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ring-a-ring-o-roses.txt ---
 Ring a ring o’ roses 
 A pocketful of posies
 a-tishoo, a-tishoo
@@ -6185,7 +5915,6 @@ Lying fast asleep
 a-tishoo, a-tishoo
 We all get up again.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/o-come-all-ye-faithful.txt ---
 O come, all ye faithful, joyful and triumphant!
 O come ye, O come ye to Bethlehem;
 Come and behold him
@@ -6208,7 +5937,6 @@ Word of the Father, now in flesh appearing!
 O come, let us adore Him, (3×)
 Christ the Lord.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/i-hear-thunder.txt ---
 I hear thunder!
 I hear thunder!
 Hark don’t you,
@@ -6218,7 +5946,6 @@ Pitter patter raindrops,
 I’m wet through
 and so are you!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/ten-green-bottles.txt ---
 Ten green bottles hanging on the wall,
 Ten green bottles hanging on the wall,
 And if one green bottle should accidentally fall,
@@ -6260,7 +5987,6 @@ One green bottles hanging on the wall,
 And if one green bottle should accidentally fall,
 There’ll be zero green hanging hanging on the wall.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/sick-song.txt ---
 Little Baby doesn’t seem right,
 She has lost her appetite,
 She turned away her favorite toy,
@@ -6282,7 +6008,6 @@ Someone’s feeling better, thank goodness for that!
 With love and care from her family
 Baby’s feeling better and baby’s happy!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hush-little-baby.txt ---
 Hush, little Baby, don’t say a word,
 Mama’s gonna buy you a Mockingbird.
 And if that mockingbird don’t sing,
@@ -6300,7 +6025,6 @@ Mama’s gonna buy you a horse and a cart.
 And if that horse and cart fall down,
 You’ll still be the sweetest little baby in town.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oh-shenandoah.txt ---
 Oh Shenandoah,
 I long to hear you,
 Away you rolling river,
@@ -6330,7 +6054,6 @@ I’ll not deceive you
 Away, we’re bound away
 Cross the wide Missouri.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-sally-walker.txt ---
 Little Sally Walker
 Walking down the street.
 She didn’t know what to do
@@ -6340,7 +6063,6 @@ Do your thing and switch!
 Hey girl do your thing
 Do your thing and switch!”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/bingo-song.txt ---
 There was a farmer who had a dog,
 And Bingo was his name-o.
 B-I-N-G-O
@@ -6387,11 +6109,9 @@ I think it is – by jingo:
 J—I—N—G—O!
 I think it is – by jingo.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/early-to-bed.txt ---
 Early to bed and early to rise
 Makes a man, healthy, wealthy and wise.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/three-little-kittens.txt ---
 Three little kittens they lost their mittens,
 And they began to cry,
 Oh, mother dear, we sadly fear
@@ -6425,7 +6145,6 @@ But I smell a rat close by.
 Mee-ow, mee-ow, mee-ow.
 We smell a rat close by.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/hot-cross-buns.txt ---
 Hot cross buns!
 Hot cross buns!
 One ha’ penny, two ha’ penny,
@@ -6436,13 +6155,11 @@ One ha’ penny,
 Two ha’ penny,
 Hot Cross Buns!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/its-raining-its-pouring.txt ---
 It’s raining; it’s pouring.
 The old man is snoring.
 He bumped his head on the top of the bed,
 And couldn’t get up in the morning.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/cackle-cackle-mother-goose.txt ---
 Cackle, cackle, Mother Goose,
 Have you any feathers loose?
 Truly have I, pretty fellow,
@@ -6450,7 +6167,6 @@ Half enough to fill a pillow.
 Here are quills, take one or two,
 And down to make a bed for you.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/boom-chicka-boom.txt ---
 I said a Boom Chicka Boom
 I said a Boom Chicka Boom
 I said a Boom Chicka Rocka Chicka Rocka Chicka Boom Uh huh
@@ -6480,7 +6196,6 @@ I said a vroom shifta vroom
 I said a vroom shifta vroom
 I said a vroom shifta…
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/mares-eat-oats.txt ---
 I know a ditty nutty as a fruitcake
 Goofy as a goon and silly as a loon
 Some call it pretty,
@@ -6503,7 +6218,6 @@ And liddle lamzy divey
 A kiddley divey too, wouldn’t you?
 A kiddley divey too, wouldn’t you?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/tooty-ta.txt ---
 CHORUS:
 A tooty-ta, a tooty-ta, a tooty ta-ta!
 A tooty-ta, a tooty-ta, a tooty ta-ta!
@@ -6522,7 +6236,6 @@ CHORUS
 Thumbs up, Elbows back, Knees together, Feet apart, Bottoms up, Head back, Tongue out,
 CHORUS
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/five-little-pumpkins.txt ---
 Five little pumpkins
 Sitting on a gate
 The first one said,
@@ -6540,7 +6253,6 @@ And OUT went the light (clap on “out”)
 And the five little pumpkins
 Rolled out of sight.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/daisy-bell.txt ---
 Daisy, Daisy give me your answer do.
 I’m half crazy all for the love of you.
 It won’t be a stylish marriage,
@@ -6556,13 +6268,11 @@ If you can’t afford a carriage.
 If I get hitched,
 On a bicycle built for two!”
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/a-wise-old-owl.txt ---
 A wise old owl lived in an oak
 The more he saw the less he spoke
 The less he spoke the more he heard.
 Why can’t we all be like that wise old bird?
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jimmy-crack-corn.txt ---
 Jimmy crack corn, and I don’t care,
 Jimmy crack corn, and I don’t care,
 Jimmy crack corn, and I don’t care,
@@ -6578,7 +6288,6 @@ The flies so numerous they did swarm,
 One chanced to bite him on the thigh,
 The devil take the blue-tail fly.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/this-little-light-of-mine.txt ---
 This little light of mine
 I’m going to let it shine
 Oh, this little light of mine
@@ -6608,7 +6317,6 @@ Don’t let Satan [blow] it out!
 I’m going to let it shine
 Let it shine, all the time, let it shine
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/georgie-porgie.txt ---
 Georgie Porgie, Puddin’ and Pie,
 Kissed the girls and made them cry,
 When the boys came out to play
@@ -6618,7 +6326,6 @@ Kissed the girls and made them cry;
 When the girls began to cry,
 Rowly Powley runs away.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/willy-boy-willy-boy-where-are-you-going.txt ---
 Willy boy, Willy boy, where are you going?
 I will go with you, if I may.
 I’m going to the meadow to see them a-mowing,
@@ -6630,7 +6337,6 @@ I am going to the meadows,
 To see them mowing,
 I am going to see them make hay.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/peekaboo.txt ---
 Peekaboo! Peekaboo! Peekaboo!
 Peekaboo! Peekaboo! Peekaboo!
 I see you!
@@ -6651,13 +6357,11 @@ Where is Baby?  Where is Baby?
 I see you!
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/there-was-an-old-woman-who-lived-in-a-shoe.txt ---
 There was an old woman who lived in a shoe.
 She had so many children, she didn’t know what to do;
 She gave them some broth without any bread;
 Then whipped them all soundly and put them to bed.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/a-ram-sam-sam.txt ---
 A ram sam sam, a ram sam sam
 Guli guli guli guli guli ram sam sam
 A ram sam sam, a ram sam sam
@@ -6667,7 +6371,6 @@ Guli guli guli guli guli ram sam sam
 A rafiq, a rafiq
 Guli guli guli guli guli ram sam sam
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/oh-mr-sun.txt ---
 Oh Mister Sun, Sun, Mister Golden Sun,
 Please shine down on me
 Oh Mister Sun, Sun, Mister Golden Sun,
@@ -6687,7 +6390,6 @@ Please shine down on…
 Please shine down on…
 Please shine down on me!
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/peter-peter-pumpkin-eater.txt ---
 Peter, Peter pumpkin eater,
 Had a wife but couldn’t keep her;
 He put her in a pumpkin shell
@@ -6697,7 +6399,6 @@ Had another and didn’t love her;
 Peter learned to read and spell,
 And then he loved her very well.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/apple-pie-abc.txt ---
 Says A,
 give me a good large slice,
 Says B,
@@ -6775,20 +6476,17 @@ W wanted it;
 X, Y, Z, and ampersand,
 All wished for a piece in hand.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/jack-be-nimble.txt ---
 Jack be nimble,
 Jack be quick,
 Jack jump over
 The candlestick.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/little-boy-blue.txt ---
 Little Boy Blue come blow your horn,
 The sheep’s in the meadow the cow’s in the corn.
 But where’s the boy who looks after the sheep?
 He’s under a haystack fast asleep.
 Will you wake him? No, not I – for if I do, he’s sure to cry.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/wind-the-bobbin-up.txt ---
 Wind the bobbin up,
 Wind the bobbin up,
 Pull, pull, clap, clap, clap.
@@ -6802,7 +6500,6 @@ Point to the door,
 Clap your hands together, 1, 2, 3,
 Do a roly-poly, put your hands upon your knee.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/if-all-the-raindrops.txt ---
 If all the raindrops
 Were lemon drops and gumdrops
 So what a rain that would be
@@ -6836,7 +6533,6 @@ Were lemon drops and gumdrops
 Oh, what a rain that would be
 I’d be outside all day, me too
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/splash-splash.txt ---
 I love to have a bath!
 When I Splash I Laugh – Ha ha!
 I love to have a bath!
@@ -6893,7 +6589,6 @@ It feels so good to be so clean.
 What a fun time it has been.
 
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/five-little-speckled-frogs.txt ---
 Five little speckled frogs
 FIVE little speckled frogs
 Sat on a speckled log
@@ -6936,12 +6631,10 @@ Where it was nice and cool
 Then there were NO speckled frogs (OR) Now there are how many frogs? NONE!
 Glug Glug.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/here-i-am-little-jumping-joan.txt ---
 Here am I, little jumping Joan;
 When nobody’s with me,
 I’m always alone.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/twinkle-twinkle-little-star.txt ---
 Twinkle, twinkle, little star,
 How I wonder what you are.
 Up above the world so high,
@@ -6970,7 +6663,6 @@ Twinkle, twinkle, little star.
 How I wonder what you are.
 How I wonder what you are.
 
---- Content from: /Users/pratyushchaudhary/Desktop/Data/nursery-rhymes-dataset/data/handy-spandy-jack-a-dandy.txt ---
 Handy spandy Jack-a-dandy
 Loves plum cake and sugar candy,
 He bought some at the grocers shop
